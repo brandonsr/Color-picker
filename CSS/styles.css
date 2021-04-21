@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h2{
+    text-align: center;
+}
+.salida{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+    width: 30%;
+    margin: 1rem 35%;
+    height: 8rem;
+}
+
+.color-selector{
+    text-align: center;
+}
